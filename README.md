@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konstantin Pliev
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning Pythin, developing skills.
+- 🌱 I’m currently learning Pythin, developing skills in many fields
 - 📫 How to reach me: inst:kosta_pliev mail: plievkd@mail.ru
 
 <!---
